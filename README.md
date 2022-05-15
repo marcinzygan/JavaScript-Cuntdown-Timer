@@ -16,7 +16,7 @@ Features Implemented :
 - Set Interval to update the remaining time 
 - Display the remaning 
 
-# This project is Live <a href="https://js-color-change.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://js-countdown-time.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 
